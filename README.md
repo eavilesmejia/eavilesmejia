@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edgard Avilés
+# 👋 Hi, I'm Edgard Aviles
 
 **💻 Senior Software Engineer | Backend Systems | Cloud Infrastructure | Fintech**
 
