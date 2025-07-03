@@ -50,7 +50,7 @@ Internal tooling system to generate marketing content and product metadata using
 
 ## 📬 Let's Connect
 
-- [LinkedIn]([https://linkedin.com/in/edgard-aviles-mejia](https://www.linkedin.com/in/edgar-aviles-3a7a3936/))
+- [LinkedIn]([https://www.linkedin.com/in/edgar-aviles-3a7a3936/])
 - [Email](mailto:eavilesmejia@gmail.com)
 
 ---
